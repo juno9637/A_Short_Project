@@ -73,7 +73,7 @@ The following assets have been used in the creation of this project:
 - [No Nonsense Textures](https://bluwhitebear.itch.io/no-nonsense-grey-box-textures)
 
 ## AI-Disclosure
-Unless specified in the code, all work is mine
+Unless specified in the code, all work is mine | [Artificial Intelligence Leads to Cognitive Decline](https://time.com/7295195/ai-chatgpt-google-learning-school/)
 
 ## No AI Training
 >Without in any way limiting the author's exclusive rights under copyright, any use of this repository to "train" generative artificial intelligence (AI) technologies to generate text, code, or other content is expressly prohibited. The author reserves all rights to license uses of this work for generative AI training and development of machine learning models.
