@@ -68,5 +68,13 @@ Since I've already set up a robust system using Unity's Cinemachine, I plan to i
 
 ---
 ## Assets
+The following assets have been used in the creation of this project:
 - [KayKit Asset Pack](https://kaylousberg.itch.io/kaykit-complete)
 - [No Nonsense Textures](https://bluwhitebear.itch.io/no-nonsense-grey-box-textures)
+
+## AI-Disclosure
+Unless specified in the code, all work is mine
+
+## No AI Training
+>Without in any way limiting the author's exclusive rights under copyright, any use of this repository to "train" generative artificial intelligence (AI) technologies to generate text, code, or other content is expressly prohibited. The author reserves all rights to license uses of this work for generative AI training and development of machine learning models.
+>This notice constitutes an express reservation of rights under Article 4(3) of Directive (EU) 2019/790.
